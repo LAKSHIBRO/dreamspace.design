@@ -18,7 +18,7 @@ export default function Home() {
 		<div className="mb-auto">
 			<div className="flex flex-col justify-center mt-8 md:mt-14 2xl:mt-40">
 				<h1 className="text-3xl md:text-5xl 2xl:text-6xl font-bold text-center leading-normal 2xl:leading-tight">
-					Redesign your home <br />
+					Redesign your Room <br />
 					<span className="text-primary">with AI</span>
 				</h1>
 				<p className="text-center mt-6 text-gray-400">
